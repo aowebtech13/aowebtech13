@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on **[passorpass](https://passorpass.com/)**
+- 🔭 I’m currently working on **[Mavericks](https://mavericksai.tech/)**
 - 🌱 I’m currently learning **python and c++**
 - 👯 I’m looking to collaborate on **full stack projects**
 - 🤝 I’m looking for help with **to get more jobs**
