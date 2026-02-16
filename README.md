@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile.jpg" width="150" style="border-radius: 50%;" alt="Adeyemi Adedeji" />
+  <img src="https://res.cloudinary.com/djme9spdc/image/upload/v1769170259/IMG-20240507-WA0006_q1wiqq.jpg" width="150" style="border-radius: 50%;" alt="Adeyemi Adedeji" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Adeyemi+Adedeji;MERN+Stack+Developer;Full+Stack+Solution+Architect" alt="Typing SVG" />
 </div>
