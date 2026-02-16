@@ -3,9 +3,9 @@
 </div>
 
 <p align="center">
-  <a href="https://aowebtech-design.vercel.app/"><b>Portfolio Website</b></a> •
-  <a href="https://www.upwork.com/freelancers/~013ef4e7e37870eed1"><b>Hire me on Upwork</b></a> •
-  <a href="https://twitter.com/adeyem1omooba"><b>Twitter</b></a>
+  <a href="https://aowebtech-design.vercel.app/"><b>🌐 Portfolio Website</b></a> • 
+  <a href="https://www.upwork.com/freelancers/~013ef4e7e37870eed1"><b>💼 Hire me on Upwork</b></a> • 
+  <a href="https://twitter.com/adeyem1omooba"><b>🐦 Twitter</b></a>
 </p>
 
 ---
@@ -16,7 +16,7 @@ I am a **Senior MERN Stack Developer** with over 5 years of professional experie
 
 * 🔭 **Currently Building:** [Mavericks AI](https://mavericksai.tech/)
 * 🌱 **Expanding My Stack:** Deep diving into **Python** and **C++**
-* ⚡ **Performance Expert:** I've successfully optimized enterprise systems, reducing load times by over 40%.
+* ⚡ **Performance Expert:** Optimized enterprise systems, reducing load times by over 40%.
 * 🎸 **Leisure:** When I'm not coding, I'm likely playing my guitar.
 
 ---
@@ -27,7 +27,7 @@ I am a **Senior MERN Stack Developer** with over 5 years of professional experie
   <tr>
     <td align="center" width="250"><b>Frontend</b></td>
     <td align="center" width="250"><b>Backend & DB</b></td>
-    <td align="center" width="250"><b>Other</b></td>
+    <td align="center" width="250"><b>Other Tools</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -47,8 +47,8 @@ I am a **Senior MERN Stack Developer** with over 5 years of professional experie
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aowebtech13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adeyemi's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aowebtech13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aowebtech13&theme=tokyonight" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aowebtech13&theme=tokyonight" height="180px" />
 </p>
 
 <p align="center">
@@ -60,17 +60,4 @@ I am a **Senior MERN Stack Developer** with over 5 years of professional experie
 ### 🤝 Let's Connect!
 
 <p align="left">
-  <a href="mailto:Aowebtech13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/adesokan-adedeji-b8b18b2b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/adeyem1omooba">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-</div>
+  <a href="mailto:Aowebtech13@gmail.
