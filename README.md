@@ -45,7 +45,7 @@ I am a **Senior MERN Stack Developer** with over 5 years of professional experie
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aowebtech13&theme=tokyonight" height="180px" />
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aowebtech13&theme=tokyonight" height="180px" />
 </p>
 
