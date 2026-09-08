@@ -6,7 +6,7 @@
   </p>
 
   <p align="center">
-    <a href="https://aowebtech-design.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=chrome&logoColor=white" /></a>
+    <a href="https://aowebtech.ally-b.com"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=chrome&logoColor=white" /></a>
     <a href="https://www.upwork.com/freelancers/~013ef4e7e37870eed1"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/adesokan-adedeji-b8b18b2b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:Aowebtech13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -19,7 +19,7 @@
 
 I am a **Senior Full-Stack Developer** with over 5 years of professional experience architecturalizing high-performance, scalable web applications. I specialize in bridging heavy-duty backend ecosystems (Node.js, Laravel) with fluid, reactive user interfaces. Proven track record of leading technical execution and optimizing complex systems.
 
-* 🚀 **Currently Scaling:** [Mavericks AI](https://mavericksai.tech/) — Driving core engineering and architecture.
+* 🚀 **Currently Scaling:** [MictomombespokeTailor](https://www.mictomonbespoketailor.com/) — Driving core engineering and architecture.
 * 📈 **Performance Metric:** Optimized enterprise infrastructures, successfully dropping system load times by **over 40%**.
 * ⚡ **Core Philosophy:** Clean code, robust API design, and asynchronous process optimization.
 * 🛠️ **Deepening Expertise:** Advancing systems-level engineering with **Python** and **C++**.
