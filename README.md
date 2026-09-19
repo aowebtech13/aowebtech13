@@ -17,9 +17,9 @@
 
 ### 💻 Executive Summary
 
-I am a **Senior Full-Stack Developer** with over 5 years of professional experience architecturalizing high-performance, scalable web applications. I specialize in bridging heavy-duty backend ecosystems (Node.js, Laravel) with fluid, reactive user interfaces. Proven track record of leading technical execution and optimizing complex systems.
+I am a **Senior Full-Stack Developer & Cybersecurity** with 5+ years of experience building secure, scalable, high-performance web applications. I specialize in python, PHP, Node.js, React, Next.js, TypeScript, MySQL, REST APIs, and AI integrations. I provide web app development, SaaS development, API development, bug fixing, performance optimization, database optimization, API security, vulnerability assessment, and server troubleshooting. I deliver clean, secure, production-ready solutions.
 
-* 🚀 **Currently Scaling:** [MictomombespokeTailor](https://www.mictomonbespoketailor.com/) — Driving core engineering and architecture.
+* 🚀 **Currently Scaling:** [https://www.hopeforthelifted.com/) — charity and community health project
 * 📈 **Performance Metric:** Optimized enterprise infrastructures, successfully dropping system load times by **over 40%**.
 * ⚡ **Core Philosophy:** Clean code, robust API design, and asynchronous process optimization.
 * 🛠️ **Deepening Expertise:** Advancing systems-level engineering with **Python** and **C++**.
@@ -32,7 +32,7 @@ I am a **Senior Full-Stack Developer** with over 5 years of professional experie
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,bootstrap,vuetify" />
 
 #### 🔹 Backend, Devops & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mongodb,mysql,postgresql,firebase,nginx" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,php,laravel,mongodb,mysql,postgresql,firebase,nginx" />
 
 #### 🔹 Systems & Tooling
 <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" />
@@ -49,6 +49,6 @@ I am a **Senior Full-Stack Developer** with over 5 years of professional experie
 ---
 
 <div align="center">
-  <p><i>When I'm not configuring servers or designing hooks, you'll find me analyzing fretboards on my guitar. 🎸</i></p>
+  <p><i>When I'm not configuring servers or developing sofwares, you'll find me analyzing fretboards on my guitar. 🎸</i></p>
   <sub>Let's build something exceptional. Drop me a line via LinkedIn or Email above.</sub>
 </div>
