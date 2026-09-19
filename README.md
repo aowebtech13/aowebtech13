@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1A202C&height=120&section=header&text=Adesokan%20Adedeji&fontSize=40&fontColor=ffffff" />
 
   <p align="center">
-    <b>Senior Full-Stack Engineer | MERN & Laravel Specialist</b>
+    <b>Senior Full-Stack Engineer & Cybersecurity Specialist</b>
   </p>
 
   <p align="center">
@@ -17,7 +17,7 @@
 
 ### 💻 Executive Summary
 
-I am a **Senior Full-Stack Developer & Cybersecurity** with 5+ years of experience building secure, scalable, high-performance web applications. I specialize in python, PHP, Node.js, React, Next.js, TypeScript, MySQL, REST APIs, and AI integrations. I provide web app development, SaaS development, API development, bug fixing, performance optimization, database optimization, API security, vulnerability assessment, and server troubleshooting. I deliver clean, secure, production-ready solutions.
+I am a **Senior Full-Stack Developer & Cybersecurity Analyst** with 5+ years of experience building secure, scalable, high-performance web applications. I specialize in python, PHP, Node.js, React, Next.js, TypeScript, MySQL, REST APIs, and AI integrations. I provide web app development, SaaS development, API development, bug fixing, performance optimization, database optimization, API security, vulnerability assessment, and server troubleshooting. I deliver clean, secure, production-ready solutions.
 
 * 🚀 **Currently Scaling:** [https://www.hopeforthelifted.com/) — charity and community health project
 * 📈 **Performance Metric:** Optimized enterprise infrastructures, successfully dropping system load times by **over 40%**.
